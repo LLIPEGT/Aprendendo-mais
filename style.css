@@ -2,11 +2,11 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@100&family=Lora&display=swap');
 
         body{
-            background-color: violet;
+            background-color: rgb(238, 130, 130);
         }
         .painel{
             margin: auto;
-            background-color: white;
+            background-color: #F0EDE6;
             width: 500px;
             height: 500px;
             border-radius: 20px;
@@ -20,7 +20,7 @@
             position: absolute;
             height: 40px;
             width: 60px;
-            background-color: violet;
+            background-color: rgb(238, 130, 130);
             border: 2px solid white;
             border-radius: 10px;
             color: white;
@@ -30,7 +30,7 @@
             position: absolute;
             height: 40px;
             width: 60px;
-            background-color: violet;
+            background-color: rgb(238, 130, 130);
             border: 2px solid white;
             border-radius: 10px;
             color: white;
